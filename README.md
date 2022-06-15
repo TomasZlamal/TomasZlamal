@@ -6,5 +6,3 @@ on learning other languages as well and will update this
 accordingly.
 - The programming languages I know (from most knowledgeable
 to least): Java, JS, CSS, HTML.
-- I’m looking to collaborate on projects that use the
-programming languages that I have written above.
