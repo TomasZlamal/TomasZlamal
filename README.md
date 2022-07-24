@@ -6,3 +6,6 @@ on learning other languages as well and will update this
 accordingly.
 - The programming languages I know (from most knowledgeable
 to least): Java, JS, CSS, HTML, R.
+- I am currentely learning Data Analytics as I am planning to branch off into
+Deep Learning / Machine Learning / Artificial Intelligence to create games that combine
+those into them.
