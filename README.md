@@ -1,3 +1,4 @@
 - C++ game dev, C++ web server dev
-- Java, C++, Haskell, SQL, PHP, JS, HTML, CSS, jQuery
+- Java, C++, Haskell, SQL, PHP, JS, HTML, CSS, jQuery, Rust
 - Best at: C++
+- Experience with custom C++ libraries: Dear ImGui, Asio, Windows.h, OpenGL, DirectX
